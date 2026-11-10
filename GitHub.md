@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main()
-{
+int main(){
 	int a;
 	printf("nhap so a = ");
 	scanf("%d",&a); 
